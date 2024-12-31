@@ -1,5 +1,5 @@
 app_name = "anant_red_theme"
-app_title = "Anant red Theme"
+app_title = "Anant Red Theme"
 app_publisher = "Anant Pranali"
 app_description = "A theme for frappe desk"
 app_email = "contact@anantpranali.com"
